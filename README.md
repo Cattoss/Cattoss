@@ -33,8 +33,6 @@ I want to be a great back-end developer <br>
 <p align="center">
 💡used at least once 
 <br>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-<img src="https://img.shields.io/badge/Maria DB-003545?style=flat&logo=MariaDB&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <br>
 </p>
