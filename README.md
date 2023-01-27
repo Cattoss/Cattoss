@@ -34,8 +34,9 @@ I want to be a great back-end developer <br>
 <br>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
- <br>
+<br>
  💡Notion
+ <br>
  <a href="https://www.notion.so/1866f123213d4c75b3d4f98999f0dd67" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </p>
 <br>
