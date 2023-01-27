@@ -16,12 +16,13 @@ I want to be a great back-end developer <br>
 <h3 align="center"> 📖 Tech Stack 📖</h3>
 
 <p align="center">
-💡used at the main
+💡used at the language
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <br>
+ 💡used at the tool
 <a href="https://www.notion.so/1866f123213d4c75b3d4f98999f0dd67" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 <br>
