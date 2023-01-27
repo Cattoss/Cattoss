@@ -22,7 +22,7 @@ I want to be a great back-end developer <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Springboot&logoColor=white"/>
 <br>
-<img src="https://www.notion.so/1866f123213d4c75b3d4f98999f0dd67//img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<a href="https://www.notion.so/1866f123213d4c75b3d4f98999f0dd67" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
