@@ -27,11 +27,16 @@ I want to be a great back-end developer <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <br>
-💡used at the Tools
+💡used at the DB&Server
 <br>
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=FlaskColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+<br>
+💡used at the tools
+<br>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=EclipseColor=white" />
 <br>
 💡Notion
 <br>
