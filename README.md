@@ -30,7 +30,7 @@ I want to be a great back-end developer <br>
 💡used at the DB&Server
 <br>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=FlaskColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=FirebaseIDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 <br>
 💡used at the tools
